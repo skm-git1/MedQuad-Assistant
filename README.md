@@ -1,5 +1,5 @@
 ## MedQuad Assistant
-A Medical Q&A Chatbot trained on the MedQuAD Dataset[https://github.com/abachaa/MedQuAD], implemented using a retrieval mechanism to find relevant answers. 
+A Medical Q&A Chatbot trained on the [MedQuAD Dataset](https://github.com/abachaa/MedQuAD), implemented using a retrieval mechanism to find relevant answers. 
 Basic medical entity recognition (e.g., symptoms, diseases, treatments). 
 User interface using Streamlit for asking medical questions
 
