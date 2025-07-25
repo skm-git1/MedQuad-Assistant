@@ -1,4 +1,4 @@
-streamlit 
+streamlit
 pandas
 numpy
 scikit-learn
@@ -6,4 +6,4 @@ google-generativeai
 sentence-transformers
 spacy
 plotly
-python -m spacy download en_core_web_sm
+en-core-web-sm 

@@ -15,7 +15,7 @@ from datetime import datetime
 import time
 
 # Configuration
-GEMINI_API_KEY = st.secrets["GEMINI_API_KEY"]  # Replace with your actual API key
+GEMINI_API_KEY = st.secrets["api_keys"]["GEMINI_API_KEY"]  # Replace with your actual API key
 MODEL_PATH = "medical_qa_model.pkl"  # Path to your trained model
 
 # Set page configuration
