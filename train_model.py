@@ -277,8 +277,8 @@ class MedicalQASystem:
             'qa_data': self.qa_data,
             'embeddings': self.embeddings,
             'vectorizer': self.vectorizer,
-            'tfidf_matrix': self.tfidf_matrix,
-            'gemini_api_key': self.gemini_api_key
+            'tfidf_matrix': self.tfidf_matrix
+            # 'gemini_api_key': self.gemini_api_key
         }
         
         with open(model_path, 'wb') as f:
